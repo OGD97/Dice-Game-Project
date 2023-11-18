@@ -41,7 +41,6 @@ else if(ran1 === 6)
 
 
 
-
 if(ran2 === 1)
 {
   img2.src = dice1;
