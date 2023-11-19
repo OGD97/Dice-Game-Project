@@ -9,6 +9,8 @@
   display: inline-block;
 }
 
+
+
 body {
   background-color: #FFC652;
 }
@@ -31,12 +33,12 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
 
+.reset
+{
+  margin-top: 2rem;
+  text-align: center;
+  align-items: center;
 }
 
 button {
@@ -49,7 +51,15 @@ button {
   border-radius: 5px;
   border: 2px solid white;
   box-shadow: 0 0.3rem 0.5rem rgb(0, 0, 0, .5);
-  position: absolute;
+}
+
+
+footer {
+  margin-top: 2rem;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
 }
 
 .website {
