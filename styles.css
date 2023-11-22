@@ -10,20 +10,20 @@
 }
 
 body {
-  background-color: #FFC652;
+  background-color: #333;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #EEEEEE;
+  text-shadow: 2px 2px #ffffff;
   font-size: 5rem;
-  color: #83AE84;
+  color: #16b9d6;
 }
 
 p {
   font-size: 2rem;
-  color: #83AE84;
+  color: #16b9d6;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -42,13 +42,13 @@ img {
 button {
   padding: 10px;
   border-color: none;
-  background-color:#83AE84;
+  background-color:#16b9d6;
   color: white;
   font-family:  'Indie Flower', cursive; ;
   font-size: 1.5rem;
   border-radius: 5px;
   border: 2px solid white;
-  box-shadow: 0 0.3rem 0.5rem rgb(0, 0, 0, .5);
+  /* box-shadow: 0 0.3rem 0.5rem rgb(0, 0, 0, .5); */
   transition: .25s;
 }
 
