@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Orange-Kid;
+  src: url(fonts/orange-kid.ttf);
+}
+
 .container {
   width: 70%;
   margin: auto;
@@ -62,7 +67,7 @@ footer {
   margin-top: 3rem;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Orange-Kid', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .website {
